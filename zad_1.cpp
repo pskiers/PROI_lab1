@@ -36,7 +36,7 @@ int main()
     } while (check == false);
     if (count == 0)
     {
-        cout<<"Recived no number";
+        cout<<"Recived no number"<<"\n";
     }
     else
     {
